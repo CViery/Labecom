@@ -7,7 +7,7 @@ export const Products = ()=>{
         <div>
             <Header/>
             <div>
-                
+                <Products/>
             </div>
         </div>
     )
